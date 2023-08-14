@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shivam012v
+- 👋 Hi, I’m @arpitverma12
 - 👀 I’m interested in coding and editing
 - 🌱 I’m currently learning c++ and python
 
