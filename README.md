@@ -7,8 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/shivamverm72742" target="blank"><img src="https://img.shields.io/twitter/follow/shivamverm72742?logo=twitter&style=for-the-badge" alt="shivamverm72742" /></a> </p>
 
-- 🌱 I’m currently learning **Learn Ethical Hacking From Scratch**
-
+- 🌱 I’m currently learning Python and CSS 
 - 📫 How to reach me **shivam2805v@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
