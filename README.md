@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivam012v" alt="shivam012v" /></a> </p>
 
-- 🔭 I’m currently working on Currently building an Admin Panel & Study Platform for real-world use. **Coderszonee**
+- 🔭 I’m  Currently building an Admin Panel & Study Platform for real-world use. **Coderszonee**
 
 - 🌱 I’m currently learning **Next.js, Flask APIs, and Supabase**
 
