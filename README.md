@@ -1,14 +1,14 @@
 
 
 <h1 align="center">Hi 👋, I'm Arpit Verma</h1>
-<h3 align="center">Web Developer | Python & Java Programmer | Building Cool Stuff</h3>
+<h3 align="center">🚀 Aspiring Full-Stack Developer | React Enthusiast | Backend Learner </h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam012v&label=Profile%20views&color=0e75b6&style=flat" alt="shivam012v" /> </p>
 
 
 
-- 🔭 I’m  Currently building an Admin Panel & Study Platform for real-world use. **Coderszonee**
+- 🔭 I’m currently building a ride-booking web app for real-world use — ZippGo.
 
 - 🌱 I’m currently learning **Next.js, Flask APIs, and Supabase**
 
