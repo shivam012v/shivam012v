@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Next.js, Flask APIs, and Supabase**
 
-- 👨‍💻 All of my projects are available at [)](https://arpitdevs.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://arpitdevs.vercel.app/](https://arpitdevs.vercel.app/)
 
 - 📫 How to reach me **shivam2805v@gmail.com**
 
